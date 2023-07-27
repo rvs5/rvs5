@@ -1,13 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Raghav Soni</h1>
-<h3 align="center">A passionate Data Analyst(Unlocking Insights, Make Data-Driven Decision)</h3>
+<h3 align="center">A Passionate Data Analyst(Unlocking Insights, Make Data-Driven Decision)</h3>
+
+![logo](https://github.com/rvs5/rvs5/blob/main/Data-Website-Analytics.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rvs5&label=Profile%20views&color=0e75b6&style=flat" alt="rvs5" /> </p>
 
 - 🌱 I’m currently learning **Python, PostgreSQL, PowerBI**
 
 - 📫 How to reach me **raghavsoni513@gmail.com**
-  ![logo](https://github.com/rvs5/rvs5/blob/main/Data-Website-Analytics.gif)
 
 - ⚡ Fun fact **"Data analysts turn raw numbers into actionable magic!"**
 
