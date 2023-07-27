@@ -1,3 +1,4 @@
+![logo](https://github.com/rvs5/rvs5/blob/main/Data-Website-Analytics.gif)
 <h1 align="center">Hi 👋, I'm Raghav Soni</h1>
 <h3 align="center">A passionate Data Analyst(Unlocking Insights, Make Data-Driven Decision)</h3>
 
